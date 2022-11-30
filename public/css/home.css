@@ -1,0 +1,28 @@
+body{
+    background-image: url('/images/darktheme.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    margin: 5px;
+    opacity: 30%;
+}
+
+.welcome{
+    font-size: xx-large;
+    margin-top: 50%;
+}
+#supported_language{
+    font-size: large;
+    position: fixed;
+    bottom: 12%;
+}
+#login_btn{
+    margin-top: 10%;
+    margin-left: 37%;
+    width: 25%;
+}
